@@ -1,17 +1,12 @@
 package assignment_collection;
 
-/*Create 1 project that implements:
-
-List
-Set
-Map
-Linkedlist (Queue n Stack)
-Do it yourself, upload to github, and submit your github link here
-*/
 
 import java.util.*;
 
-
+/**
+ *
+ * @author OWNER
+ */
 public class Assignment_Collection {
 
     public static void main(String[] args) {
